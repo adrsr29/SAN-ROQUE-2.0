@@ -781,12 +781,22 @@ http://extraott-iptv.com:88/7180490375/4314305273/400218244
 http://extraott-iptv.com:88/7180490375/4314305273/165885
 #EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES - M. LALIGA 4K" tvg-logo="https://lo1.in/sp/mliga.png" group-title="â–ºEU | SPAIN SPORTS",ES - M. LALIGA 4K
 http://extraott-iptv.com:88/7180490375/4314305273/400241867
-#EXTINF:-1 tvg-id="" tvg-name="ES - M+ GOL MUNDIAL HD" tvg-logo="" group-title="â–ºEU | SPAIN SPORTS",ES - M+ GOL MUNDIAL HD
-http://extraott-iptv.com:88/7180490375/4314305273/400485113
-#EXTINF:-1 tvg-id="" tvg-name="ES - M+ GOL MUNDIAL SD" tvg-logo="" group-title="â–ºEU | SPAIN SPORTS",ES - M+ GOL MUNDIAL SD
-http://extraott-iptv.com:88/7180490375/4314305273/400485112
-#EXTINF:-1 tvg-id="" tvg-name="ES - M+ GOL MUNDIAL FHD" tvg-logo="" group-title="â–ºEU | SPAIN SPORTS",ES - M+ GOL MUNDIAL FHD
-http://extraott-iptv.com:88/7180490375/4314305273/400485114
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="SP - M. LALIGA UHD" tvg-logo="https://lo1.in/sp/mliga.png" group-title="â–ºEU | SPAIN SPORTS",SP - M. LALIGA UHD
+http://extraott-iptv.com:88/7180490375/4314305273/189459
+#EXTINF:-1 tvg-id="laligatvbar.es" tvg-name="ES - M.LALIGATV BAR FHD" tvg-logo="https://lo1.in/sp/lgtvbar.png" group-title="â–ºEU | SPAIN SPORTS",ES - M.LALIGATV BAR FHD
+http://extraott-iptv.com:88/7180490375/4314305273/400267408
+#EXTINF:-1 tvg-id="laligatvbar.es" tvg-name="ES - LALIGATV BAR HD" tvg-logo="https://lo1.in/sp/lgtvbar.png" group-title="â–ºEU | SPAIN SPORTS",ES - LALIGATV BAR HD
+http://extraott-iptv.com:88/7180490375/4314305273/400220778
+#EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="SP - M. LALIGA 1 UHD" tvg-logo="https://lo1.in/sp/Championstour.png" group-title="â–ºEU | SPAIN SPORTS",SP - M. LALIGA 1 UHD
+http://extraott-iptv.com:88/7180490375/4314305273/9460
+#EXTINF:-1 tvg-id="dazn1.es" tvg-name="ES - DAZN LA LIGA 1 FHD" tvg-logo="https://lo1.in/it/dzn.png" group-title="â–ºEU | SPAIN SPORTS",ES - DAZN LA LIGA 1 FHD
+http://extraott-iptv.com:88/7180490375/4314305273/400440766
+#EXTINF:-1 tvg-id="dazn2.es" tvg-name="ES - DAZN LA LIGA 2 FHD" tvg-logo="https://lo1.in/it/dzn.png" group-title="â–ºEU | SPAIN SPORTS",ES - DAZN LA LIGA 2 FHD
+http://extraott-iptv.com:88/7180490375/4314305273/400440765
+#EXTINF:-1 tvg-id="dazn1.es" tvg-name="ES - DAZN LA LIGA 1 HD" tvg-logo="https://lo1.in/it/dzn.png" group-title="â–ºEU | SPAIN SPORTS",ES - DAZN LA LIGA 1 HD
+http://extraott-iptv.com:88/7180490375/4314305273/400440768
+#EXTINF:-1 tvg-id="dazn2.es" tvg-name="ES - DAZN LA LIGA 2 HD" tvg-logo="https://lo1.in/it/dzn.png" group-title="â–ºEU | SPAIN SPORTS",ES - DAZN LA LIGA 2 HD
+http://extraott-iptv.com:88/7180490375/4314305273/400440767
 #EXTINF:-1 tvg-id="teledeporte.es" tvg-name="SP - TELEDEPORTE HD" tvg-logo="https://lo1.in/sp/teledepo.png" group-title="â–ºEU | SPAIN SPORTS",SP - TELEDEPORTE HD
 http://extraott-iptv.com:88/7180490375/4314305273/165978
 #EXTINF:-1 tvg-id="teledeporte.es" tvg-name="SP - TELEDEPORTE 4K" tvg-logo="https://lo1.in/sp/teledepo.png" group-title="â–ºEU | SPAIN SPORTS",SP - TELEDEPORTE 4K
@@ -801,14 +811,6 @@ http://extraott-iptv.com:88/7180490375/4314305273/129010
 http://extraott-iptv.com:88/7180490375/4314305273/129013
 #EXTINF:-1 tvg-id="" tvg-name="ES - LA LIGA SMARTBANK TV 1 HD" tvg-logo="https://lo1.in/sp/ligasmbam2.png" group-title="â–ºEU | SPAIN SPORTS",ES - LA LIGA SMARTBANK TV 1 HD
 http://extraott-iptv.com:88/7180490375/4314305273/129011
-#EXTINF:-1 tvg-id="dazn1.es" tvg-name="ES - DAZN LA LIGA 1 FHD" tvg-logo="https://lo1.in/it/dzn.png" group-title="â–ºEU | SPAIN SPORTS",ES - DAZN LA LIGA 1 FHD
-http://extraott-iptv.com:88/7180490375/4314305273/400440766
-#EXTINF:-1 tvg-id="dazn2.es" tvg-name="ES - DAZN LA LIGA 2 FHD" tvg-logo="https://lo1.in/it/dzn.png" group-title="â–ºEU | SPAIN SPORTS",ES - DAZN LA LIGA 2 FHD
-http://extraott-iptv.com:88/7180490375/4314305273/400440765
-#EXTINF:-1 tvg-id="dazn1.es" tvg-name="ES - DAZN LA LIGA 1 HD" tvg-logo="https://lo1.in/it/dzn.png" group-title="â–ºEU | SPAIN SPORTS",ES - DAZN LA LIGA 1 HD
-http://extraott-iptv.com:88/7180490375/4314305273/400440768
-#EXTINF:-1 tvg-id="dazn2.es" tvg-name="ES - DAZN LA LIGA 2 HD" tvg-logo="https://lo1.in/it/dzn.png" group-title="â–ºEU | SPAIN SPORTS",ES - DAZN LA LIGA 2 HD
-http://extraott-iptv.com:88/7180490375/4314305273/400440767
 #EXTINF:-1 tvg-id="daznf1.es" tvg-name="SP - DAZN F1 ESPAÃ‘A HD" tvg-logo="https://lo1.in/sp/mfrml1.png" group-title="â–ºEU | SPAIN SPORTS",SP - DAZN F1 ESPAÃ‘A HD
 http://extraott-iptv.com:88/7180490375/4314305273/165973
 #EXTINF:-1 tvg-id="dazn1.es" tvg-name="ES - DAZN 1 ESPAÃ‘AÂ 4K" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="â–ºEU | SPAIN SPORTS",ES - DAZN 1 ESPAÃ‘AÂ 4K
@@ -913,10 +915,6 @@ http://extraott-iptv.com:88/7180490375/4314305273/165894
 http://extraott-iptv.com:88/7180490375/4314305273/165977
 #EXTINF:-1 tvg-id="gol.es" tvg-name="SP - GOL TV 4K" tvg-logo="https://lo1.in/sp/gol.png" group-title="â–ºEU | SPAIN SPORTS",SP - GOL TV 4K
 http://extraott-iptv.com:88/7180490375/4314305273/165892
-#EXTINF:-1 tvg-id="laligatvbar.es" tvg-name="ES - M.LALIGATV BAR FHD" tvg-logo="https://lo1.in/sp/lgtvbar.png" group-title="â–ºEU | SPAIN SPORTS",ES - M.LALIGATV BAR FHD
-http://extraott-iptv.com:88/7180490375/4314305273/400267408
-#EXTINF:-1 tvg-id="laligatvbar.es" tvg-name="ES - LALIGATV BAR HD" tvg-logo="https://lo1.in/sp/lgtvbar.png" group-title="â–ºEU | SPAIN SPORTS",ES - LALIGATV BAR HD
-http://extraott-iptv.com:88/7180490375/4314305273/400220778
 #EXTINF:-1 tvg-id="" tvg-name="SP - M+ LIGA DE CAMPEONES 9 HD" tvg-logo="https://lo1.in/sp/lgtvbar.png" group-title="â–ºEU | SPAIN SPORTS",SP - M+ LIGA DE CAMPEONES 9 HD
 http://extraott-iptv.com:88/7180490375/4314305273/400220789
 #EXTINF:-1 tvg-id="" tvg-name="ES - LA LIGA SMARTBANK M3 HD" tvg-logo="https://lo1.in/sp/ligasmbam2.png" group-title="â–ºEU | SPAIN SPORTS",ES - LA LIGA SMARTBANK M3 HD
@@ -925,18 +923,6 @@ http://extraott-iptv.com:88/7180490375/4314305273/4200
 http://extraott-iptv.com:88/7180490375/4314305273/21098
 #EXTINF:-1 tvg-id="" tvg-name="ES - DAZN LA LIGA 2 SD" tvg-logo="https://lo1.in/it/dzn.png" group-title="â–ºEU | SPAIN SPORTS",ES - DAZN LA LIGA 2 SD
 http://extraott-iptv.com:88/7180490375/4314305273/21099
-#EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="ES - REAL MADRID TV SD" tvg-logo="https://lo1.in/sp/rmatv.png" group-title="â–ºEU | SPAIN SPORTS",ES - REAL MADRID TV SD
-http://extraott-iptv.com:88/7180490375/4314305273/62807
-#EXTINF:-1 tvg-id="barcatv.es" tvg-name="ES - BARCA TV SD" tvg-logo="https://lo1.in/sp/bartv.png" group-title="â–ºEU | SPAIN SPORTS",ES - BARCA TV SD
-http://extraott-iptv.com:88/7180490375/4314305273/62809
-#EXTINF:-1 tvg-id="" tvg-name="ES - LA LIGA SMARTBANK M3 SD" tvg-logo="https://lo1.in/sp/ligasmbam2.png" group-title="â–ºEU | SPAIN SPORTS",ES - LA LIGA SMARTBANK M3 SD
-http://extraott-iptv.com:88/7180490375/4314305273/62813
-#EXTINF:-1 tvg-id="" tvg-name="ES - LA LIGA SMARTBANK M2 SD" tvg-logo="https://lo1.in/sp/ligasmbam2.png" group-title="â–ºEU | SPAIN SPORTS",ES - LA LIGA SMARTBANK M2 SD
-http://extraott-iptv.com:88/7180490375/4314305273/62814
-#EXTINF:-1 tvg-id="" tvg-name="ES - LA LIGA SMARTBANK SD" tvg-logo="https://lo1.in/sp/ligasmbam2.png" group-title="â–ºEU | SPAIN SPORTS",ES - LA LIGA SMARTBANK SD
-http://extraott-iptv.com:88/7180490375/4314305273/62815
-#EXTINF:-1 tvg-id="" tvg-name="##### SP - EVENT #####" tvg-logo="https://lo1.in/sp/sp.png" group-title="â–ºEU | SPAIN SPORTS",##### SP - EVENT #####
-http://extraott-iptv.com:88/7180490375/4314305273/40014233
 #EXTINF:-1 tvg-id="mlaliga2.es" tvg-name="SP - M. LALIGA 2 HD" tvg-logo="https://lo1.in/sp/Championstour.png" group-title="â–ºEU | SPAIN SPORTS",SP - M. LALIGA 2 HD
 http://extraott-iptv.com:88/7180490375/4314305273/5971
 #EXTINF:-1 tvg-id="mlaliga2.es" tvg-name="ES - M. LaLiga 2 SD" tvg-logo="https://lo1.in/sp/Championstour.png" group-title="â–ºEU | SPAIN SPORTS",ES - M. LaLiga 2 SD
@@ -977,6 +963,18 @@ http://extraott-iptv.com:88/7180490375/4314305273/400407281
 http://extraott-iptv.com:88/7180490375/4314305273/400220785
 #EXTINF:-1 tvg-id="mlaliga6.es" tvg-name="ES - M. LALIGA 6 [LIVEEVENT]" tvg-logo="https://lo1.in/sp/mvstlg6.png" group-title="â–ºEU | SPAIN SPORTS",ES - M. LALIGA 6 [LIVEEVENT]
 http://extraott-iptv.com:88/7180490375/4314305273/400220783
+#EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="ES - REAL MADRID TV SD" tvg-logo="https://lo1.in/sp/rmatv.png" group-title="â–ºEU | SPAIN SPORTS",ES - REAL MADRID TV SD
+http://extraott-iptv.com:88/7180490375/4314305273/62807
+#EXTINF:-1 tvg-id="barcatv.es" tvg-name="ES - BARCA TV SD" tvg-logo="https://lo1.in/sp/bartv.png" group-title="â–ºEU | SPAIN SPORTS",ES - BARCA TV SD
+http://extraott-iptv.com:88/7180490375/4314305273/62809
+#EXTINF:-1 tvg-id="" tvg-name="ES - LA LIGA SMARTBANK M3 SD" tvg-logo="https://lo1.in/sp/ligasmbam2.png" group-title="â–ºEU | SPAIN SPORTS",ES - LA LIGA SMARTBANK M3 SD
+http://extraott-iptv.com:88/7180490375/4314305273/62813
+#EXTINF:-1 tvg-id="" tvg-name="ES - LA LIGA SMARTBANK M2 SD" tvg-logo="https://lo1.in/sp/ligasmbam2.png" group-title="â–ºEU | SPAIN SPORTS",ES - LA LIGA SMARTBANK M2 SD
+http://extraott-iptv.com:88/7180490375/4314305273/62814
+#EXTINF:-1 tvg-id="" tvg-name="ES - LA LIGA SMARTBANK SD" tvg-logo="https://lo1.in/sp/ligasmbam2.png" group-title="â–ºEU | SPAIN SPORTS",ES - LA LIGA SMARTBANK SD
+http://extraott-iptv.com:88/7180490375/4314305273/62815
+#EXTINF:-1 tvg-id="" tvg-name="##### SP - EVENT #####" tvg-logo="https://lo1.in/sp/sp.png" group-title="â–ºEU | SPAIN SPORTS",##### SP - EVENT #####
+http://extraott-iptv.com:88/7180490375/4314305273/40014233
 #EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="ES - M. DEPORTES SD" tvg-logo="https://lo1.in/sp/multidepo.png" group-title="â–ºEU | SPAIN SPORTS",ES - M. DEPORTES SD
 http://extraott-iptv.com:88/7180490375/4314305273/400218240
 #EXTINF:-1 tvg-id="mdeportes1.es" tvg-name="SP - M. DEPORTES 4K" tvg-logo="https://lo1.in/sp/mdepor1hd.png" group-title="â–ºEU | SPAIN SPORTS",SP - M. DEPORTES 4K
@@ -1013,8 +1011,6 @@ http://extraott-iptv.com:88/7180490375/4314305273/400407280
 http://extraott-iptv.com:88/7180490375/4314305273/400407279
 #EXTINF:-1 tvg-id="" tvg-name="#####SP - SPORTS UHD #####" tvg-logo="https://lo1.in/sp/sp.png" group-title="â–ºEU | SPAIN SPORTS",#####SP - SPORTS UHD #####
 http://extraott-iptv.com:88/7180490375/4314305273/40014241
-#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="SP - M. LALIGA UHD" tvg-logo="https://lo1.in/sp/mliga.png" group-title="â–ºEU | SPAIN SPORTS",SP - M. LALIGA UHD
-http://extraott-iptv.com:88/7180490375/4314305273/189459
 #EXTINF:-1 tvg-id="teledeporte.es" tvg-name="SP - TELEDEPORTE UHD" tvg-logo="https://lo1.in/sp/teledepo.png" group-title="â–ºEU | SPAIN SPORTS",SP - TELEDEPORTE UHD
 http://extraott-iptv.com:88/7180490375/4314305273/189467
 #EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="SP - M. LCAMPEON 2 UHD" tvg-logo="https://lo1.in/sp/Championstour.png" group-title="â–ºEU | SPAIN SPORTS",SP - M. LCAMPEON 2 UHD
@@ -1059,8 +1055,6 @@ http://extraott-iptv.com:88/7180490375/4314305273/360197
 http://extraott-iptv.com:88/7180490375/4314305273/379044
 #EXTINF:-1 tvg-id="dazn4.es" tvg-name="SP - DAZN 4 ESPAÃ‘A UHD	" tvg-logo="https://lo1.in/sp/dazn4es.png" group-title="â–ºEU | SPAIN SPORTS",SP - DAZN 4 ESPAÃ‘A UHD	
 http://extraott-iptv.com:88/7180490375/4314305273/379045
-#EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="SP - M. LALIGA 1 UHD" tvg-logo="https://lo1.in/sp/Championstour.png" group-title="â–ºEU | SPAIN SPORTS",SP - M. LALIGA 1 UHD
-http://extraott-iptv.com:88/7180490375/4314305273/9460
 #EXTINF:-1 tvg-id="mlaliga2.es" tvg-name="SP - M. LALIGA 2 UHD" tvg-logo="https://lo1.in/sp/mvstlg2.png" group-title="â–ºEU | SPAIN SPORTS",SP - M. LALIGA 2 UHD
 http://extraott-iptv.com:88/7180490375/4314305273/9461
 #EXTINF:-1 tvg-id="mlaliga3.es" tvg-name="SP - M. LALIGA 3 UHD" tvg-logo="https://lo1.in/sp/mvstlg3.png" group-title="â–ºEU | SPAIN SPORTS",SP - M. LALIGA 3 UHD
